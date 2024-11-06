@@ -2,7 +2,7 @@ AUTHOR: Tim Read
 
 DATE: 14 July 2015
 
-Contact:tim.read@gmail.com
+Contact:tim.read at gmail.com
 
 SYNOPSIS
 PowerShell script to retrieve Windows boot history and performance and display sub-optimal boot times to the end user in a chart
